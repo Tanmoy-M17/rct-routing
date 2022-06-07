@@ -1,18 +1,24 @@
 {
   "data": [
     {
-      "id": 1,
+      "name" : "SmartPhone",
       "price": 30,
-      "name": "Moazzem"
-    },
-    {
-      "id": 2,
-      "price": 40,
-      "name": "Tanmoy"
-    },
-    {
-      "id": 3,
-      "name": "tanmoy Mondal"
-    }
+      "id" : 0
+  },
+  {
+      "name" : "Watch",
+      "price" : 20,
+      "id" : 1
+  },
+  {
+      "name" : "Shirt",
+      "price" : 50,
+      "id" : 2
+  },
+  {
+      "name" : "Pants",
+      "price" : 100,
+      "id" : 3
+  }
   ]
 }
